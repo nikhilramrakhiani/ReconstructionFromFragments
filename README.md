@@ -11,10 +11,7 @@ Getting Started:
 
 Example Input:
 
-s1:   a l l   i s   w e l l
-s2:   e l l   t h a t   e n
-s3:   h a t   e n d
-s4:   t   e n d s   w e l l
+s1:   a l l   i s   w e l l, s2:   e l l   t h a t   e n,  s3:   h a t   e n d, s4:   t   e n d s   w e l l
 
 Example Output:
 
